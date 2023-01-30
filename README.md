@@ -3,8 +3,8 @@
 <b> Decrypt Sudoku </b> is a simple android app which helps to solve a famous <b>Sudoku</b> puzzle. <br>
 
 • Created this application by taking a reference of youtube videos. <br>
-• I have learnt about how to create custom views in android by creating this application. <b>
-• I have build this application just for sake of learning more about android framework. <b>
+• I have learnt about how to create custom views in android by creating this application. <br>
+• I have build this application just for sake of learning more about android framework. <br>
   
 <b> Languages Used : </b>
 
